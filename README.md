@@ -1,7 +1,17 @@
 
 # Software Engineering for Data Scientists 
 
-This repository contains starter code for the **Software Engineering for Data Scientists** final project. Please reference your course materials for documentation on this repository's structure and important files. Happy coding!
+This repository contains code for the **Software Engineering for Data Scientists** final project.
+
+
+## Overview
+This project is a data dashboard for monitoring employee performance and recruitment risk.
+
+## Requirements
+- Python 3.8+
+- Install dependencies: `pip install -r requirements.txt`
+- Run the dashboard: `python report/dashboard.py`
+
 
 ### Repository Structure
 ```
